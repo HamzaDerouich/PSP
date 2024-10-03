@@ -1,6 +1,5 @@
 def SucesionFibonacci():
     numero = int(input("Ingrese el número: "))
-
     i = 0
     a = 0
     b = 1
